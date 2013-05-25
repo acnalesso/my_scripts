@@ -1,4 +1,4 @@
-# v= vim.nox
+# v= 'vim.nox'
 alias v='vim.nox'
 
 # mapping caps lock to Escape
